@@ -12,4 +12,4 @@ example: https://api.lyrics.ovh/v1/Adele/Hello
 
 code: https://github.com/asifurrahman01714/Day-38-Module-26.5-hard-rock
 
-live site: 
+live site: https://asifurrahman01714.github.io/Day-38-Module-26.5-hard-rock/
